@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- > [🏠](https://illiterate.top) Welcome to my page.
-- > [🏫](https://cs.sxu.edu.cn) I graduated from Shanxi University with a bachelor's degree (2016-2020), and now I am studying for a master's degree here.
-- > 🖥 My research direction is natural language processing and deep learning.
+> [🏠](https://illiterate.top) Welcome to my page.
+
+> [🏫](https://cs.sxu.edu.cn) I graduated from Shanxi University with a bachelor's degree, and now I am studying for a master's degree here.
+
+> 🖥 My research direction is natural language processing and deep learning.
