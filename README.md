@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 > [🏫](http://cs.sxu.edu.cn) I graduated from Shanxi University with a bachelor's degree, and now I am studying here for a master's degree.
 
-> 🖥  My research direction is natural language processing and deep learning.
+> 🖥  My research direction is natural language processing (generation) and deep learning.
