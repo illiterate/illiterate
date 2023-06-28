@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 > [🏠](https://illiterate.top) Welcome to my page.
 
-> [🏫](http://cs.sxu.edu.cn) I graduated from Shanxi University and now I'm studying for my master's degree here.
+> [🏫](http://cs.sxu.edu.cn) I graduated with a bachelor's and master's degree from Shanxi University.
 
 > 🖥  My research interests are natural language processing (generation) and deep learning.
