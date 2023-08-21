@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 > [🏫](http://cs.sxu.edu.cn) I graduated with a bachelor's and master's degree from Shanxi University.
 
-> 🖥  My research interests are NLP and AIGC.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illiterate&show_icons=true)
+> ✨  My research interests are NLP and AIGC.
