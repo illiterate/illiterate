@@ -1,10 +1,15 @@
+<p align="center">
+  <img style="width:6rem; height:auto" src="gif/header.gif"/>
+</p>
+<h2 align="center">Hi, there 👋</h2>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **illiterate/illiterate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
