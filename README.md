@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 > 🖥  My research interests are NLP and AIGC.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illiterate&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illiterate&show_icons=true)
